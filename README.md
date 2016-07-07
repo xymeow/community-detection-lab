@@ -1,6 +1,8 @@
 # community-detection-lab
 My course lab
 实现了5种社区发现算法
+
+
 **1. GN算法**
 GN算法是一种分裂型的社区发现算法，我在本实验中的实现大概如下：
 `1. 计算各边的betweenness`
